@@ -1,4 +1,4 @@
-[![Build Status](https://www.travis-ci.org/benjaminkomen/graaljs.svg?branch=master)](https://www.travis-ci.org/benjaminkomen/graaljs)
+[![Build Status](https://www.travis-ci.com/benjaminkomen/graaljs.svg?branch=master)](https://www.travis-ci.com/benjaminkomen/graaljs)
 
 # GraalJS
 
