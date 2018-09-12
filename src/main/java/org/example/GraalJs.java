@@ -5,7 +5,7 @@ import org.graalvm.polyglot.Value;
 
 public class GraalJs {
 
-    Context jsContext;
+    private Context jsContext;
 
     public GraalJs() {
         jsContext = Context.create("js");

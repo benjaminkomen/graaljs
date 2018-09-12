@@ -21,8 +21,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <maven.compiler.source>10</maven.compiler.source>
-        <maven.compiler.target>10</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
         <slf4j.version>1.7.25</slf4j.version>
     </properties>
@@ -121,8 +121,8 @@
                 <version>${maven.compiler.plugin.version}</version>
                 <!-- The source and target entries make sure you can run the app from IntelliJ while using java 9+ methods-->
                 <configuration>
-                    <source>10</source>
-                    <target>10</target>
+                    <source>11</source>
+                    <target>11</target>
                 </configuration>
                 <dependencies>
                     <dependency>
