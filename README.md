@@ -1,5 +1,3 @@
-[![Build Status](https://www.travis-ci.com/benjaminkomen/graaljs.svg?branch=master)](https://www.travis-ci.com/benjaminkomen/graaljs)
-
 # GraalJS
 
 A small project to test using GraalJS without a separate GraalVM but simply using the native JDK.
